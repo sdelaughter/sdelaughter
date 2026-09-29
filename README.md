@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td><a href="https://github.com/sdelaughter/dos-mitigation">DoS Mitigation</a></td>
-    <td>Tools for DoS mitigation research</td>
+    <td>Tools for Denial-of-Service mitigation research</td>
   </tr>
   <tr>
     <td><a href="https://github.com/sdelaughter/network_measurement">Network Measurement</a></td>
