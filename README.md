@@ -26,19 +26,19 @@ I am also a game developer, and creator of FOSS libraries for GameMaker.
 <table>
   <tr>
     <td><a href="https://github.com/sdelaughter/RunGML">RunGML</a></td>
-    <td>A Lisp-like language embedded in GameMaker and programmed in JSON</td>
+    <td>A Lisp-like language embedded in GameMaker and programmed in JSON.<br>Facilitates debugging, live coding, modding support, secret hiding, and more.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/sdelaughter/STAGING">STAGING</a></td>
-    <td>Sequenced Task Automation for Game InitializiNG</td>
+    <td>Sequenced Task Automation for Game InitializiNG.<br>Helps divide startup tasks into chunks instead of trying to initialize everything in a single frame.<br>Includes full support for asynchronous tasks.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/sdelaughter/PostFX">PostFX</a></td>
-    <td>Post-Processing Effect Management Library for GameMaker</td>
+    <td>Post-Processing Effect Management Library for GameMaker.<br>Streamlines the process of applying a series of shaders to the full display of a game at the end of the draw pipeline.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/sdelaughter/tile_expand">Tile Expand</a></td>
-    <td>Expand a 5-tile set to a 47-tile set for autotiling in 2D games.</td>
+    <td>Expands a 5-tile set to a 47-tile set for autotiling in 2D games.<br>Engine agnostic.</td>
   </tr>
 </table>
 
