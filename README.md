@@ -1,3 +1,7 @@
+I am a computer scientist primarily researching network measurement, performance, and security.
+
+I am also a game developer, and creator of FOSS libraries for GameMaker.
+
 <h2>Computer Networks</h2>
 <table>
   <tr>
@@ -18,7 +22,7 @@
   </tr>
 </table>
 
-<h2>Game Development (mostly for GameMaker)</h2>
+<h2>Game Development</h2>
 <table>
   <tr>
     <td><a href="https://github.com/sdelaughter/RunGML">RunGML</a></td>
