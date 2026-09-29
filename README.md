@@ -46,7 +46,12 @@ I am also a game developer, and creator of FOSS libraries for GameMaker.
 <table>
   <tr>
     <td><a href="https://github.com/sdelaughter/tools">Tools</a></td>
-    <td>Miscellaneous small helpful tools</td>
+    <td>Miscellaneous small helpful tools.  Including:<br>
+      <ul>
+        <li>Convert a `.dot` (graphviz) image to a `.png`</li>
+        <li>Convert a PDF to grayscale.</li>
+      </ul>
+    </td>
   </tr>
     <tr>
     <td><a href="https://github.com/sdelaughter/verbosify">Verbosify</a></td>
