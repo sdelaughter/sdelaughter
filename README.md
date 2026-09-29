@@ -48,7 +48,7 @@ I am also a game developer, and creator of FOSS libraries for GameMaker.
     <td><a href="https://github.com/sdelaughter/tools">Tools</a></td>
     <td>Miscellaneous small helpful tools.  Including:<br>
       <ul>
-        <li>Convert a `.dot` (graphviz) image to a `.png`</li>
+        <li>Convert a <code>.dot</code> (graphviz) image to a <code>.png</code></li>
         <li>Convert a PDF to grayscale.</li>
       </ul>
     </td>
