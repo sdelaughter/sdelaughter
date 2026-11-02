@@ -38,7 +38,7 @@ I am also a game developer, and creator of FOSS libraries for GameMaker.
   </tr>
   <tr>
     <td><a href="https://github.com/sdelaughter/tile_expand">Tile Expand</a></td>
-    <td>Expands a 5-tile set to a 47-tile set for autotiling in 2D games.<br>Engine agnostic.</td>
+    <td>Expands a 5-tile 2Nx2N set to a 47-tile NxN set for autotiling in 2D games.<br>Engine agnostic.</td>
   </tr>
 </table>
 
