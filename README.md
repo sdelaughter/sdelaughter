@@ -5,6 +5,10 @@ I am also a game developer, and creator of FOSS libraries for GameMaker.
 <h2>Computer Networks</h2>
 <table>
   <tr>
+    <td><a href="https://github.com/ifran-project">ifran</a></td>
+    <td>Interoperable Framework for Reproducible Automation of Networks</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/sdelaughter/dos-mitigation">DoS Mitigation</a></td>
     <td>Tools for Denial-of-Service mitigation research</td>
   </tr>
