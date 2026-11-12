@@ -2,12 +2,16 @@ I am a computer scientist primarily researching network measurement, performance
 
 I am also a game developer, and creator of FOSS libraries for GameMaker.
 
-<h2>Computer Networks</h2>
+<h2>Collaborations</h2>
 <table>
   <tr>
     <td><a href="https://github.com/ifran-project">ifran</a></td>
     <td>Interoperable Framework for Reproducible Automation of Networks</td>
   </tr>
+</table>
+
+<h2>Computer Networks</h2>
+<table>
   <tr>
     <td><a href="https://github.com/sdelaughter/dos-mitigation">DoS Mitigation</a></td>
     <td>Tools for Denial-of-Service mitigation research</td>
