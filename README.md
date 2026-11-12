@@ -5,6 +5,7 @@ I am also a game developer, and creator of FOSS libraries for GameMaker.
 <h2>Collaborations</h2>
 <table>
   <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/354697259?s=200&v=4" alt="ifran logo" width="32" height="32"></td>
     <td><a href="https://github.com/ifran-project">ifran</a></td>
     <td>Interoperable Framework for Reproducible Automation of Networks</td>
   </tr>
